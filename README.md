@@ -1,1 +1,1 @@
-#EPILEPSY WARNING!! This game may include flashing lights in terminal.
+# EPILEPSY WARNING!! This game may include flashing lights in terminal.
